@@ -1,0 +1,8 @@
+/home/gokop/hackolantern/temp/temp/obj/Debug/.NETFramework,Version=v4.7.2.AssemblyAttribute.cs
+/home/gokop/hackolantern/temp/temp/obj/Debug/temp.Form1.resources
+/home/gokop/hackolantern/temp/temp/obj/Debug/temp.Properties.Resources.resources
+/home/gokop/hackolantern/temp/temp/bin/Debug/temp.exe.config
+/home/gokop/hackolantern/temp/temp/bin/Debug/temp.pdb
+/home/gokop/hackolantern/temp/temp/bin/Debug/temp.exe
+/home/gokop/hackolantern/temp/temp/obj/Debug/temp.exe
+/home/gokop/hackolantern/temp/temp/obj/Debug/temp.pdb
